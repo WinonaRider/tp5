@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background: #583708;
+}
+p{
+  font-size: 70px;
+  font-weight: bolder;
+  text-align: center;
+}
+p span { 
+  border-radius: 25px;
+  background-color: rgb(199, 139, 49); 
+ 
+}
